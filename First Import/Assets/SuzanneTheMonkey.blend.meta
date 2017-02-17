@@ -1,29 +1,15 @@
 fileFormatVersion: 2
-guid: 54f991664c16fb54ba322f51467bee76
-timeCreated: 1487264354
+guid: 93575e021e7a2f74c9d3c1d72d632bb6
+timeCreated: 1487340369
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Cylinder
-    100004: PointyCube
-    100006: Cube
     400000: //RootNode
-    400002: Cylinder
-    400004: PointyCube
-    400006: Cube
     2300000: //RootNode
-    2300002: Cylinder
-    2300004: PointyCube
-    2300006: Cube
     3300000: //RootNode
-    3300002: Cylinder
-    3300004: PointyCube
-    3300006: Cube
-    4300000: Cube
-    4300002: PointyCube
-    4300004: Cylinder
+    4300000: Suzanne
     7400000: Default Take
     9500000: //RootNode
   materials:
